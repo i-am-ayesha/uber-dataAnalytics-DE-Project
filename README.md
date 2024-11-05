@@ -23,11 +23,11 @@ Simplify data workflows with this modern pipeline tool.
 ## Dataset Used
 This project utilizes the TLC Trip Record Data, featuring a comprehensive collection of yellow and green taxi trip records. The dataset includes essential fields such as:
 
-📅 Pick-up and drop-off dates/times
-📍 Pick-up and drop-off locations
-📏 Trip distances
-💲 Itemized fares, rate types, and payment methods
-🚕 Driver-reported passenger counts
+  📅 Pick-up and drop-off dates/times
+  📍 Pick-up and drop-off locations
+  📏 Trip distances
+  💲 Itemized fares, rate types, and payment methods
+  🚕 Driver-reported passenger counts
 
 Here is the dataset used in the project - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
 
